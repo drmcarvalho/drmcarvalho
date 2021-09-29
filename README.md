@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at CWI Software
-- 🌱 I’m currently learning Apache Airflow, Elixir, ASP.NET Core
+- 🌱 I’m currently learning Apache Airflow, Elixir and ASP.NET Core
 - 👯 I’m looking to collaborate in Stackoverflow em Português
 - 📫 How to reach me: dener.carvalho@outlook.com
 - 😻 gato
