@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at CWI Software
+- 🔭 I’m currently working at Southsystem
 - 🌱 I’m currently learning Apache Airflow, Elixir and ASP.NET Core
 - 👯 I’m looking to collaborate in Stackoverflow em Português
 - 📫 How to reach me: dener.carvalho@outlook.com
