@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Apache Airflow, Elixir and ASP.NET Core
+- 🌱 I’m currently learning Elixir, Erlang and HTML, CSS
 - 👯 I’m looking to collaborate in Stackoverflow em Português
 - 📫 How to reach me: dener.carvalho(at)outlook.com
 - 😻 gato
